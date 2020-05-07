@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/avatar.png</file>
+        <file>images/movie.png</file>
+        <file>images/music.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/stop.png</file>
+        <file>images/upload.png</file>
+        <file>images/receive.png</file>
+        <file>images/open.png</file>
+        <file>images/volume.png</file>
+        <file>images/T.png</file>
+        <file>images/mainwindowBgImage.jpg</file>
+        <file>images/logIn.jpg</file>
+        <file>images/close.png</file>
+        <file>images/maximize.png</file>
+        <file>images/minimize.png</file>
+        <file>images/ten.png</file>
+        <file>images/configIcon.png</file>
+        <file>images/playIcon.png</file>
+        <file>images/exitIcon.png</file>
+        <file>images/chatIcon.png</file>
+        <file>images/tIcon.png</file>
+        <file>images/bold.png</file>
+        <file>images/clear.png</file>
+        <file>images/color.png</file>
+        <file>images/italic.png</file>
+        <file>images/save.png</file>
+        <file>images/under.png</file>
+        <file>images/send.png</file>
+    </qresource>
+    <qresource prefix="/qss"/>
+    <qresource prefix="/">
+        <file>QSS/black.qss</file>
+        <file>QSS/white.qss</file>
+    </qresource>
+</RCC>
